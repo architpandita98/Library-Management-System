@@ -28,3 +28,8 @@ Front End and Back End
 
 How project works?
 Explained in libraryscreenshot.pdf file.
+
+
+How to run this project 
+1.Import sql files to create tables in mysql.
+2.Import the project on the Eclipse IDE/Netbeans and run it.
